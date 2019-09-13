@@ -1,0 +1,23 @@
+{
+    "name": "aka03/yii2-comments",
+    "description": "Yii2 Simple Comments Widget",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","comments"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitaliy Smirnov",
+            "email": "vsm1rnov@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "codeception/codeception": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "aka03\\comments\\": "src",
+            "aka03\\comments\\tests\\": "tests"
+        }
+    }
+}

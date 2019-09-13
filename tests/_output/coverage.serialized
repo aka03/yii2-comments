@@ -1,0 +1,667 @@
+<?php
+$coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+$coverage->setData(array (
+  'F:\\OSPanel\\domains\\test\\vendor\\aka03\\yii2-comments\\src\\CommentWidget.php' => 
+  array (
+    48 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    49 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    50 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    57 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    65 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    69 => 
+    array (
+    ),
+    70 => NULL,
+    80 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    81 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    82 => 
+    array (
+    ),
+    83 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    84 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    85 => NULL,
+    94 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    95 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    96 => NULL,
+    104 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    105 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    107 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    108 => 
+    array (
+      0 => 'delete',
+    ),
+    109 => 
+    array (
+      0 => 'delete',
+    ),
+    110 => 
+    array (
+      0 => 'delete',
+    ),
+    111 => 
+    array (
+      0 => 'delete',
+    ),
+    113 => 
+    array (
+      0 => 'delete',
+    ),
+    116 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    117 => 
+    array (
+      0 => 'updateSave',
+      1 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      2 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    118 => 
+    array (
+      0 => 'updateSave',
+    ),
+    119 => 
+    array (
+      0 => 'updateSave',
+    ),
+    120 => 
+    array (
+      0 => 'updateSave',
+    ),
+    121 => 
+    array (
+      0 => 'updateSave',
+    ),
+    122 => 
+    array (
+      0 => 'updateSave',
+    ),
+    126 => 
+    array (
+      0 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      1 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    127 => 
+    array (
+      0 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      1 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    128 => 
+    array (
+      0 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      1 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    129 => 
+    array (
+      0 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    131 => 
+    array (
+      0 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      1 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    132 => 
+    array (
+      0 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      1 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    137 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    138 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    139 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    140 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    142 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    144 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    146 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    148 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    149 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    150 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    151 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    152 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    153 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    155 => NULL,
+    164 => 
+    array (
+      0 => 'delete',
+    ),
+    165 => 
+    array (
+      0 => 'delete',
+    ),
+    174 => 
+    array (
+      0 => 'updateSave',
+      1 => 'delete',
+    ),
+    175 => 
+    array (
+      0 => 'updateSave',
+      1 => 'delete',
+    ),
+    177 => 
+    array (
+    ),
+  ),
+  'F:\\OSPanel\\domains\\test\\vendor\\aka03\\yii2-comments\\src\\models\\Comment.php' => 
+  array (
+    30 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnUserIsGuest',
+      7 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsNotAuthor',
+      8 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsAuthor',
+      9 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      10 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+      11 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest',
+      12 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser',
+    ),
+    31 => NULL,
+    39 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser',
+    ),
+    41 => 
+    array (
+      0 => 'updateSave',
+      1 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      2 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      3 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser',
+    ),
+    42 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser',
+    ),
+    47 => NULL,
+    56 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnUserIsGuest',
+      7 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsNotAuthor',
+      8 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsAuthor',
+      9 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      10 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+      11 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest',
+      12 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser',
+    ),
+    58 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnUserIsGuest',
+      7 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsNotAuthor',
+      8 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsAuthor',
+      9 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      10 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+      11 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest',
+      12 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser',
+    ),
+    59 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnUserIsGuest',
+      7 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsNotAuthor',
+      8 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsAuthor',
+      9 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      10 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+      11 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest',
+      12 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser',
+    ),
+    63 => NULL,
+    71 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser',
+    ),
+    72 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser',
+    ),
+    73 => NULL,
+    81 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnUserIsGuest',
+    ),
+    82 => NULL,
+    90 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsNotAuthor',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsAuthor',
+    ),
+    91 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      4 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsAuthor',
+    ),
+    93 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsNotAuthor',
+    ),
+    94 => NULL,
+    102 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    103 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    104 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    106 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    107 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+    ),
+    109 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+    ),
+    111 => NULL,
+    119 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    120 => 
+    array (
+      0 => 'updateCancel',
+      1 => 'updateSave',
+      2 => 'delete',
+      3 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+    ),
+    122 => NULL,
+    55 => 
+    array (
+      0 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest',
+      1 => 'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser',
+      2 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser',
+      3 => 'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnUserIsGuest',
+      4 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsNotAuthor',
+      5 => 'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsAuthor',
+      6 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime',
+      7 => 'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime',
+      8 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest',
+      9 => 'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser',
+    ),
+  ),
+));
+$coverage->setTests(array (
+  'updateCancel' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'updateSave' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'delete' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnUserIsGuest' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'aka03\\comments\\tests\\functional\\CommentCest:addValidCommentOnLoggedUser' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnLoggedUser' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'aka03\\comments\\tests\\unit\\CommentTest::testGetUsernameOnUserIsGuest' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsNotAuthor' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'aka03\\comments\\tests\\unit\\CommentTest::testCurrentUserIsAuthor' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'aka03\\comments\\tests\\unit\\CommentTest::testShowCreatedTime' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'aka03\\comments\\tests\\unit\\CommentTest::testShowUpdatedTime' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnUserIsGuest' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'aka03\\comments\\tests\\unit\\CommentTest::testSuccessfullySaveOnLoggedUser' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+));
+
+$filter = $coverage->filter();
+$filter->setWhitelistedFiles(array (
+  'F:\\OSPanel\\domains\\test\\vendor\\aka03\\yii2-comments\\src\\models\\Comment.php' => true,
+  'F:\\OSPanel\\domains\\test\\vendor\\aka03\\yii2-comments\\src\\CommentWidget.php' => true,
+));
+
+return $coverage;

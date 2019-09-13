@@ -1,0 +1,19 @@
+# Codeception Test Suite Configuration
+#
+# Suite for acceptance tests.
+# Perform tests in browser using the WebDriver or PhpBrowser.
+# If you need both WebDriver and PHPBrowser tests - create a separate suite.
+
+actor: AcceptanceTester
+modules:
+    enabled:
+        - WebDriver:
+            url: 'http://app.test.loc/index-test.php'
+            browser: chrome
+            capabilities:
+                "goog:chromeOptions":
+                    w3c: false
+            #restart: true
+        - Yii2:
+            part: [orm, fixtures]
+        - \aka03\comments\tests\Helper\Acceptance

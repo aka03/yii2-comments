@@ -1,0 +1,17 @@
+.media-object {
+    width: 64px;
+    height: 64px;
+}
+
+.c-pointer {
+    cursor: pointer;
+}
+
+.edit-message {
+    overflow: hidden;
+    resize: none;
+}
+
+.save-comment, .edit-comment, .cancel-comment {
+    background: none;
+}
