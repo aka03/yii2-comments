@@ -3,6 +3,7 @@
 namespace aka03\comments\models;
 
 use Yii;
+use yii\base\InvalidConfigException;
 use yii\db\ActiveRecord;
 use aka03\comments\CommentWidget;
 
@@ -61,14 +62,18 @@ class Comment extends ActiveRecord
             ],
         ];
     }
-
+    
     /**
      * Relation user.
      * @return \yii\db\ActiveQuery
+     * @throws InvalidConfigException
      */
     public function getUser()
     {
         $user = Yii::$app->user->identityClass;
+        if (get_parent_class($user) !== 'yii\db\ActiveRecord') {
+            throw new InvalidConfigException('User class should extends yii\db\ActiveRecord.');
+        }
         return $this->hasOne($user::className(), ['id' => 'user_id']);
     }
 
